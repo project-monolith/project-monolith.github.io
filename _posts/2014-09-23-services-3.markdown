@@ -5,6 +5,6 @@ category: Services
 title: Open Source
 description: |
 ---
-HereNow is an open source project developed by the community for the community. Built to extend the [OneBusAway](http://onebusaway.org/) real-time transit information system, PlaceStation is designed for fast deployment, easy administration by your agencies' IT staff, and inexpensive installation with off-the-shelf hardware.
+HereNow is an open source project developed by the community for the community. Built to extend the [OneBusAway](http://onebusaway.org/) real-time transit information system, HereNow is designed for fast deployment, easy administration by your agencies' IT staff, and inexpensive installation with off-the-shelf hardware.
 
 Re-creating strong towns and a sense of place is a big task: HereNow can help.
