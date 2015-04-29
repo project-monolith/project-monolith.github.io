@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Start Where Riders Look...
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+Smartphones have become the predominant way for people to find personalized information about what’s nearby and how to get around, however our observations suggest many transit users consult public signage first before turning to their smartphones.

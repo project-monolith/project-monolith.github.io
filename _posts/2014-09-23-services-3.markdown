@@ -2,7 +2,9 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: (Without Killing Your Budget)
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+PlaceStation is an open source project developed by the community for the community. Built to extend the [OneBusAway](http://onebusaway.org/) real-time transit information system, PlaceStation is designed for fast deployment, easy administrion by your agencies' IT staff, and inexpensive instlation with off-the-shelf hardware.
+
+Re-creating strong towns and a sense of place is a big task: PlaceStation can help.

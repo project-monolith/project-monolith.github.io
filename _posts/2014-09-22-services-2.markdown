@@ -2,9 +2,7 @@
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: ...And Make It Smarter
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+ We think a smarter sign built around the user experience has the potential to engage people with their environment, encourage spontaneity, elevate the commute to a travel experience, and extend real-time information to audiences who do not have access to smartphone technology.
