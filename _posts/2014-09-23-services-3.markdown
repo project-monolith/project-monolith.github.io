@@ -5,6 +5,6 @@ category: Services
 title: (Without Killing Your Budget)
 description: |
 ---
-PlaceStation is an open source project developed by the community for the community. Built to extend the [OneBusAway](http://onebusaway.org/) real-time transit information system, PlaceStation is designed for fast deployment, easy administrion by your agencies' IT staff, and inexpensive instlation with off-the-shelf hardware.
+PlaceStation is an open source project developed by the community for the community. Built to extend the [OneBusAway](http://onebusaway.org/) real-time transit information system, PlaceStation is designed for fast deployment, easy administration by your agencies' IT staff, and inexpensive installation with off-the-shelf hardware.
 
 Re-creating strong towns and a sense of place is a big task: PlaceStation can help.
