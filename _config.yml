@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://placestation.io
-title: placeStation
-email: info@placeStation.io
-author: Your Name
-description: "placeStation is an Open Source kiosk frontend for OneBusAway, designed to help transit riders connect to the place around them as they get where they're going."
+url: http://here-now.us
+title: HereNow
+email: info@here-now.us
+author: Jeff Hammerquist
+description: "HereNow is a dynamic signage solution that brings discovery and delight to the travel experience by reconnecting people with place."
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,6 +22,6 @@ permalink: pretty
 
 social:
   - title: contact us
-    url: mailto:info@placestation.io?subject=Tell me more!
+    url: mailto:info@here-now.us?subject=Tell me more!
   - title: github
     url: https://github.com/project-monolith
