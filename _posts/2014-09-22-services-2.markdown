@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: plcStn.png
 category: Services
 title: ...And Make It Smarter
 description: |
