@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: HCT-Mockup-Map.gif
 category: Services
 title: (Without Killing Your Budget)
 description: |
