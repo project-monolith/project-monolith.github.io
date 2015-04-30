@@ -2,9 +2,7 @@
 layout: default
 img: HCT-Mockup-Map.gif
 category: Services
-title: Open Source
+title: Our Team
 description: |
 ---
-HereNow is an open source project developed by the community for the community. Built to extend the [OneBusAway](http://onebusaway.org/) real-time transit information system, HereNow is designed for fast deployment, easy administration by your agencies' IT staff, and inexpensive installation with off-the-shelf hardware.
-
-Re-creating strong towns and a sense of place is a big task: HereNow can help.
+HereNow is a group of civic-minded professionals with deep and diverse skillsets interested in incresing public access to real-time informaiton. We provide a design-driven platform built around user testing and careful consideration of the user experience.
